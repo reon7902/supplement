@@ -1,5 +1,3 @@
-BETTE_aging_supplement
-
 From here you will find followings:
 
 1. Details of assessment measures
