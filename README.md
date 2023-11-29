@@ -1,2 +1,3 @@
-Data set, additional PCA analysis, and Bayes Factor analysis
-Study protocol is available upon request. 
+Data set, additional PCA analysis, and Bayes Factor analysis.
+
+The study protocol is available upon request. 
